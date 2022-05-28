@@ -28,8 +28,20 @@ Below are screenshots of smart contract activities.
 ### Deploy Remix, Metamask, Ganache
 
 
+https://user-images.githubusercontent.com/95498383/170838247-0dd7376b-12dd-443b-bf12-92dbe5ce678f.mp4
+
+
+
+https://user-images.githubusercontent.com/95498383/170838262-0eba722c-adea-46be-a80a-f2708cafd2f1.mp4
+
+
+
 
 ### Buy tokens and check balances
+
+
+
+https://user-images.githubusercontent.com/95498383/170838410-4053c1ae-3479-4dc6-9949-a14d8e89b20c.mp4
 
 
 
